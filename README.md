@@ -1,0 +1,1 @@
+Тест Github Actions (GA)
